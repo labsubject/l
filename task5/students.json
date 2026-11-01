@@ -1,0 +1,39 @@
+[
+  {
+    "name": "varsha",
+    "roll": "101",
+    "branch": "CSE",
+    "year": "3",
+    "cgpa": "8.9"
+  },
+  {
+    "name": "Eshwar",
+    "roll": "105",
+    "branch": "DS",
+    "year": "3",
+    "cgpa": "9.1"
+  },
+  {
+    "name": "ds-B",
+    "roll": "12345"
+  },
+  {
+    "name": "john",
+    "roll": "100"
+  },
+  {
+    "name": "data",
+    "roll": "500"
+  },
+  {
+    "name": "suma",
+    "roll": "222",
+    "branch": "eee",
+    "year": "5",
+    "cgpa": "10.1"
+  },
+  {
+    "roll": "10",
+    "branch": "csd"
+  }
+]
